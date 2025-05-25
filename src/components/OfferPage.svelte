@@ -165,7 +165,7 @@
     </div>
   {:else}
     <p>
-      Generate the SDP offer and build the offer link following the options. See
+      Generate the SDP offer and build the offer link following the options.
       
     </p>
     <div class="mt-4">
