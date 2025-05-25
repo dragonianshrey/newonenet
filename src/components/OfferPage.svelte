@@ -166,12 +166,7 @@
   {:else}
     <p>
       Generate the SDP offer and build the offer link following the options. See
-      <a
-        class="link"
-        href={githubLink + '#how-does-it-work'}
-        target="_blank"
-        rel="noopener noreferrer">How does it work?</a
-      >
+      
     </p>
     <div class="mt-4">
       {#if showOfferOptions}
